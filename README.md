@@ -15,3 +15,4 @@ Click the link for the deployed Portfolio: https://casongordy.github.io/My-Portf
 
 Projects contain other languages, frameworks and technologies
 
+![portfolio pic](https://thumb1.shutterstock.com/display_pic_with_logo/797209/384047029/stock-photo-portfolio-concept-modern-line-style-illustration-multicolor-portfolio-drawn-on-dark-brick-wall-384047029.jpg)
