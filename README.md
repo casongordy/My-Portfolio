@@ -4,7 +4,7 @@ This repository is basic portfolio highlighting recent projects I have been work
 
 ## Getting Started
 
-Click the link for the deployed Portfolio: 
+Click the link for the deployed Portfolio: https://casongordy.github.io/My-Portfolio/
 
 
 ## Built With
